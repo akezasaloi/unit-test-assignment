@@ -1,0 +1,20 @@
+{
+  "name": "unit-test-assignment",
+  "version": "1.0.0",
+  "description": "Performing test cases for math operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akezasaloi/unit-test-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akezasaloi/unit-test-assignment/issues"
+  },
+  "homepage": "https://github.com/akezasaloi/unit-test-assignment#readme"
+}
